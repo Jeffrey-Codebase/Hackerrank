@@ -1,4 +1,4 @@
-package com.jeffrey.hackerrank.hackerrank_solutions;
+package com.jeffrey.hackerrank.hard;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,7 +11,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class MergeSortCountingInversionsResult {
 
 	/*
 	 * Problem: Merge Sort: Counting Inversions
@@ -73,7 +73,7 @@ public class MergeSortCountingInversions {
 				List<Integer> arr = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
 						.map(Integer::parseInt).collect(toList());
 
-				long result = Result.countInversions(arr);
+				long result = MergeSortCountingInversionsResult.countInversions(arr);
 
 				bufferedWriter.write(String.valueOf(result));
 				bufferedWriter.newLine();
