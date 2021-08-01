@@ -2,6 +2,16 @@ package com.jeffrey.hackerrank.medium;
 
 import java.util.*;
 
+/*
+ * Problem: Sorting: Comparator
+ * https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
+ *
+ * Time Complexity: O(1)
+ *
+ * Space Complexity: O(1)
+ *
+ */
+
 class Player {
 	String name;
 	int score;
