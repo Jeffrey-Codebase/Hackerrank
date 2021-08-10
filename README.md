@@ -6,6 +6,9 @@
 | Array Manipulation                           |
 | Merge Sort: Counting Inversions              |
 | Reverse Shuffle Merge                        |
+| Maximum Subarray Sum                         |
+| Making Candies                               |
+| DFS: Connected Cell in a Grid                |
 
 ### MEDIUM
 
@@ -20,3 +23,12 @@
 | Pairs                                        |
 | Triple sum                                   |
 | Minimum Time Required                        |
+| Max Array Sum                                |
+| Candies                                      |
+| Abbreviation                                 |
+| Balanced Brackets                            |
+| Queues: A Tale of Two Stacks                 |
+| Largest Rectangle                            |
+| Castle on the Grid                           |
+| Roads and Libraries                          |
+| Find the nearest clone                       |
