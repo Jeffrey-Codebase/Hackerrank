@@ -9,6 +9,7 @@
 | Maximum Subarray Sum                         |
 | Making Candies                               |
 | DFS: Connected Cell in a Grid                |
+| Matrix                                       |
 
 ### MEDIUM
 
@@ -32,3 +33,8 @@
 | Castle on the Grid                           |
 | Roads and Libraries                          |
 | Find the nearest clone                       |
+| Tree: Huffman Decoding                       |
+| Recursion: Davis' Staircase                  |
+| Recursive Digit Sum                          |
+| Time Complexity: Primality                   |
+| Circle Queries                               |
